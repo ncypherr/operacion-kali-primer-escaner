@@ -1,6 +1,6 @@
 # 🛡️ Operación Kali – Primer Escaneo de Red Ético
 
-**Fecha:** 2024  
+**Fecha:** 2025 
 **Objetivo:** Primer reconocimiento de red en un entorno seguro y controlado  
 **Entorno:** Laboratorio casero – red local
 
